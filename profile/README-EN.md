@@ -1,3 +1,5 @@
+[Brazilian Portuguese Version](https://github.com/FirmaERP/.github/blob/main/profile/README-EN.md)
+
 # FirmaERP
 
 🙋‍♀️ **What is FirmaERP?**
