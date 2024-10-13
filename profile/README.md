@@ -21,14 +21,6 @@ Estamos sempre em busca de novos colaboradores! Se você deseja contribuir com o
 
 Toda a nossa documentação oficial pode ser encontrada [aqui](https://firmaerp.softyes.com.br/docs). Ela inclui guias de instalação, uso e personalização, além de referências para desenvolvedores. Caso tenha dúvidas, também temos uma comunidade ativa no [Guilded](https://www.guilded.gg/softyesti) para suporte.
 
-🍿 **Fatos divertidos**
-
-Nosso time adora começar o dia com uma boa xícara de café e, ocasionalmente, pão de queijo! O ambiente colaborativo e leve é uma marca registrada do desenvolvimento do FirmaERP.
-
-🧙 **Dica do Mestre:**
-
-Lembre-se de explorar as poderosas integrações do FirmaERP com módulos externos e serviços de terceiros para expandir ainda mais suas funcionalidades!
-
 📞 **Contato**
 
 Se você tiver dúvidas, sugestões ou quiser entrar em contato com a equipe da SoftYes TI, envie um e-mail para [contato@softyes.com.br](mailto:contato@softyes.com.br?subject=FirmaERP) ou acesse nosso [site oficial](https://softyes.com.br). Estamos à disposição para ajudar!
