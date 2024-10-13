@@ -27,6 +27,6 @@ Nosso time adora começar o dia com uma boa xícara de café e, ocasionalmente, 
 
 Lembre-se de explorar as poderosas integrações do FirmaERP com módulos externos e serviços de terceiros para expandir ainda mais suas funcionalidades!
 
-📞 Contato
+📞 **Contato**
 
 Se você tiver dúvidas, sugestões ou quiser entrar em contato com a equipe da SoftYes TI, envie um e-mail para [contato@softyes.com.br](mailto:contato@softyes.com.br?subject=FirmaERP) ou acesse nosso [site oficial](https://softyes.com.br). Estamos à disposição para ajudar!
