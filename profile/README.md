@@ -2,7 +2,7 @@
 
 🙋‍♀️ **O que é o FirmaERP?**
 
-FirmaERP é um ERP open-source desenvolvido para pequenas e médias empresas, focado em oferecer funcionalidades essenciais e uma interface simples e intuitiva. Nosso objetivo é simplificar a gestão de negócios, desde o controle de estoque até a emissão de notas fiscais, tudo em uma plataforma acessível e personalizável.
+[FirmaERP](https://firmaerp.softyes.com.br) é um ERP open-source desenvolvido para pequenas e médias empresas, focado em oferecer funcionalidades essenciais e uma interface simples e intuitiva. Nosso objetivo é simplificar a gestão de negócios, desde o controle de estoque até a emissão de notas fiscais, tudo em uma plataforma acessível e personalizável.
 
 🌟 **Nossa conexão com a SoftYes TI**
 
