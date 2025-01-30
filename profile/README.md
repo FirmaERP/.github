@@ -1,26 +1,29 @@
-[English Version](https://github.com/FirmaERP/.github/blob/main/profile/README-EN.md)
+[Brazilian Portuguese Version](https://github.com/FirmaERP/.github/blob/main/profile/README-PT.md)
+
+<img width="100" height="100" src="readme/icon.png" alt="app logo">
 
 # FirmaERP
 
-🙋‍♀️ **O que é o FirmaERP?**
+🙋‍♀️ **What is FirmaERP?**
 
-[FirmaERP](https://firmaerp.softyes.com.br) é um ERP open-source desenvolvido para pequenas e médias empresas, focado em oferecer funcionalidades essenciais e uma interface simples e intuitiva. Nosso objetivo é simplificar a gestão de negócios, desde o controle de estoque até a emissão de notas fiscais, tudo em uma plataforma acessível e personalizável.
+[FirmaERP](https://firmaerp.softyes.com.br) is an open-source ERP designed for small and medium-sized businesses, focused on providing essential functionalities and a simple, intuitive interface. Our goal is to simplify business management, from inventory control to invoice generation, all within an accessible and customizable platform.
 
-🌟 **Nossa conexão com a SoftYes TI**
+🌟 **Our connection with SoftYes TI**
 
-FirmaERP é um projeto idealizado, apoiado e administrado pela [SoftYes TI](https://softyes.com.br), uma empresa especializada em soluções tecnológicas para empresas de diversos segmentos. A SoftYes TI compartilha a visão de criar ferramentas eficientes e acessíveis para empresas em crescimento.
+FirmaERP is a project envisioned, supported, and managed by [SoftYes TI](https://softyes.com.br), a company specializing in technological solutions for businesses across various sectors. SoftYes TI shares the vision of creating efficient and accessible tools for growing businesses.
 
-🌈 **Diretrizes de contribuição**
+🌈 **Contribution guidelines**
 
-Estamos sempre em busca de novos colaboradores! Se você deseja contribuir com o projeto, aqui estão algumas maneiras de ajudar:
-- **Bugs e Feedback:** Abra uma issue no GitHub para relatar bugs ou sugerir melhorias.
-- **Código:** Sinta-se à vontade para fazer um fork do repositório, trabalhar em uma feature ou correção de bug, e enviar um pull request.
-- **Documentação:** Melhorar nossa documentação é uma ótima forma de contribuir, especialmente para novos usuários e desenvolvedores.
+We are always looking for new contributors! If you would like to contribute to the project, here are a few ways you can help:
 
-👩‍💻 **Recursos úteis**
+- **Bugs and Feedback:** Open an issue on GitHub to report bugs or suggest improvements.
+- **Code:** Feel free to fork the repository, work on a feature or bug fix, and submit a pull request.
+- **Documentation:** Improving our documentation is a great way to contribute, especially for new users and developers.
 
-Toda a nossa documentação oficial pode ser encontrada [aqui](https://firmaerp.softyes.com.br/docs). Ela inclui guias de instalação, uso e personalização, além de referências para desenvolvedores. Caso tenha dúvidas, também temos uma comunidade ativa no [Guilded](https://www.guilded.gg/softyesti) para suporte.
+👩‍💻 **Useful resources**
 
-📞 **Contato**
+All of our official documentation can be found [here](https://firmaerp.softyes.com.br/docs). It includes installation guides, usage and customization instructions, as well as developer references. If you have any questions, we also have an active community on [Guilded](https://www.guilded.gg/softyesti) for support.
 
-Se você tiver dúvidas, sugestões ou quiser entrar em contato com a equipe da SoftYes TI, envie um e-mail para [contato@softyes.com.br](mailto:contato@softyes.com.br?subject=FirmaERP) ou acesse nosso [site oficial](https://softyes.com.br). Estamos à disposição para ajudar!
+📞 **Contact**
+
+If you have any questions, suggestions, or would like to get in touch with the SoftYes TI team, send an email to [contato@softyes.com.br](mailto:contato@softyes.com.br?subject=FirmaERP) or visit our [official website](https://softyes.com.br). We’re here to help!
