@@ -1,4 +1,4 @@
-[English Version](https://github.com/FirmaERP/.github/blob/main/profile/README_EN.md)
+[![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") English](https://github.com/FirmaERP/.github/blob/main/profile/README_EN.md)
 
 <img width="100" height="100" src="readme/icon.png" alt="FirmaERP project logo">
 
@@ -19,7 +19,7 @@
 
 - **Backend**: [Golang](https://go.dev/)
 - **Frontend**: [Dart](https://dart.dev/) & [Flutter](https://flutter.dev/)
-- **Database**: [PostgreSQL](https://www.postgresql.org/) and [SQLite3](https://www.sqlite.org/)
+- **Database**: [PostgreSQL](https://www.postgresql.org/) & [SQLite3](https://www.sqlite.org/)
 
 ## 🧑‍💻 Contribuição
 
