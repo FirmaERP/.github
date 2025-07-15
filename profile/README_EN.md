@@ -4,18 +4,18 @@
 
 # FirmaERP
 
-![License](https://img.shields.io/github/license/FirmaERP/.github)
-![Contributions welcome](https://img.shields.io/badge/contributions-Closed-red)
+![License](https://img.shields.io/github/license/FirmaERP/.github?color=orange)
+![Contributions welcome](https://img.shields.io/badge/contributions-Closed-orange)
 
 [FirmaERP](https://firmaerp.softyes.com.br) is an open-source ERP developed for small and medium-sized businesses, focused on offering essential functionalities and a simple, intuitive interface. Our aim is to simplify business management, from stock control to issuing invoices, all on an accessible and customizable platform.
 
 ## 📦 Technologies
 
-![Made with Go](https://img.shields.io/badge/backend-Golang-blue)
-![Made with Dart](https://img.shields.io/badge/frontend-Dart-blue)
-![Made with Flutter](https://img.shields.io/badge/frontend-Flutter-blue)
-![Made with PostgreSQL](https://img.shields.io/badge/database-Postgres-blue)
-![Made with SQLite3](https://img.shields.io/badge/database-SQLite3-blue)
+![Made with Go](https://img.shields.io/badge/backend-Golang-orange)
+![Made with Dart](https://img.shields.io/badge/frontend-Dart-orange)
+![Made with Flutter](https://img.shields.io/badge/frontend-Flutter-orange)
+![Made with PostgreSQL](https://img.shields.io/badge/database-Postgres-orange)
+![Made with SQLite3](https://img.shields.io/badge/database-SQLite3-orange)
 
 - **Backend**: [Golang](https://go.dev/)
 - **Frontend**: [Dart](https://dart.dev/) & [Flutter](https://flutter.dev/)
