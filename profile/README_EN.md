@@ -1,6 +1,6 @@
 [![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Brazilian Portuguese](https://github.com/FirmaERP/.github/blob/main/profile/README.md)
 
-<img width="100" height="100" src="readme/icon.png" alt="FirmaERP project logo">
+<img width="100" height="100" src="docs/logo.png" alt="FirmaERP project logo">
 
 # FirmaERP
 
